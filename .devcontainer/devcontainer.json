@@ -1,0 +1,6 @@
+{
+  "name": "devpod-alpine",
+  "build": {
+    "dockerfile": "./Dockerfile"
+  }
+}
